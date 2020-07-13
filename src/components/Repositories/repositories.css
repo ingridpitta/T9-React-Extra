@@ -1,0 +1,23 @@
+.repoBox {
+  max-width: 100vw;
+  width: 100%;
+}
+
+.repositories-title {
+  font-family: "Raleway", sans-serif;
+  font-weight: 300;
+  font-size: 35px;
+  color: #ac53f2;
+}
+
+.repositories-paragraph {
+  font-family: "Raleway", sans-serif;
+  font-weight: 300;
+  font-size: 20px;
+  margin-bottom: 9.2px;
+  color: black;
+}
+
+.repositories-box {
+  margin-bottom: 30px;
+}
